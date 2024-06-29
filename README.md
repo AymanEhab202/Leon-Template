@@ -2,7 +2,7 @@
 Leon-Template
 
 ## Description
-First HTML and CSS project that is a statice protfolio web page.
+First HTML and CSS project that is a static protfolio web page.
 
 ## Features
 - Responsive
